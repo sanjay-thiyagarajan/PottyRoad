@@ -1,5 +1,5 @@
 # Potty Road  
-A pothole severity classifier powered by Deep Learning  
+Realtime pothole severity classifier powered by Deep Learning  
 
 ## Installation Instructions
 Though one can work with the project without an virtual environment,  it is recommended to use one so 
@@ -32,6 +32,12 @@ as to avoid conflicts with other projects.
 
 You have now successfully set up the project on your environment.  
 
+## Tech Stack  
+1) TensorFlow
+2) Python
+3) OpenCV
+4) Tkinter  
+
 ## Usage  
 a) Command line mode:  
 ```
@@ -47,3 +53,4 @@ b) Simple GUI:
 ![Pothole Classification_screenshot_10 01 202333](https://user-images.githubusercontent.com/42594454/211483656-4702cc6f-806c-4c40-b87d-6176982a97f1.png)
 ![Pothole Classification_screenshot_10 01 2023](https://user-images.githubusercontent.com/42594454/211483680-8553fcaf-d84a-46e8-8d17-70ffe7ff4b05.png)
 ![Pothole Classification_screenshot_10 01 20233](https://user-images.githubusercontent.com/42594454/211483699-728bc7f4-2e44-4e05-92a1-807931b5f128.png)
+![Pothole Classification_screenshot_10 01 2023444](https://user-images.githubusercontent.com/42594454/211484487-4a99f3b7-f6e3-44d0-9013-62f2d7b7b461.png)
