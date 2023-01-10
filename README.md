@@ -41,3 +41,9 @@ b) Simple GUI:
 ```
   python3 GUI.py
 ```  
+
+## Screenshots  
+![Pothole Classification_screenshot_10 01 202344](https://user-images.githubusercontent.com/42594454/211483614-1f81a77e-a1f6-430a-8220-49f3e743b7be.png)
+![Pothole Classification_screenshot_10 01 202333](https://user-images.githubusercontent.com/42594454/211483656-4702cc6f-806c-4c40-b87d-6176982a97f1.png)
+![Pothole Classification_screenshot_10 01 2023](https://user-images.githubusercontent.com/42594454/211483680-8553fcaf-d84a-46e8-8d17-70ffe7ff4b05.png)
+![Pothole Classification_screenshot_10 01 20233](https://user-images.githubusercontent.com/42594454/211483699-728bc7f4-2e44-4e05-92a1-807931b5f128.png)
